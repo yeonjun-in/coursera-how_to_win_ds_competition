@@ -6,13 +6,15 @@
 
 #### feature preprocessing and generation with respect to models
 
-Overview : [ ] unchecked # [checkbox:unchecked]
+Overview : 19.12.22
 
-Numeric features : 
+Numeric features : 19.12.24
 
-Categorical and ordinal features : 
+Categorical and ordinal features : 19.12.27
 
-Datetime and coordinates : 
+Datetime and coordinates : 19.12.29
+
+
 
 
 
