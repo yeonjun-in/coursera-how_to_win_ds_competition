@@ -8,11 +8,11 @@
 
 Overview : [19.12.22]
 
-Numeric features : 19.12.24
+Numeric features : [19.12.24]
 
-Categorical and ordinal features : 19.12.27
+Categorical and ordinal features : [19.12.27]
 
-Datetime and coordinates : 19.12.29
+Datetime and coordinates : [19.12.29]
 
 
 
