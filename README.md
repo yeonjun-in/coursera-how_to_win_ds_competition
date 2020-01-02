@@ -14,6 +14,8 @@ Categorical and ordinal features : [19.12.27]
 
 Datetime and coordinates : [19.12.29]
 
+Handling missing values : [20.01.02]
+
 
 
 
