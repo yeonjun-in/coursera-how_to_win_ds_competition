@@ -6,15 +6,15 @@
 
 #### feature preprocessing and generation with respect to models
 
-Overview : [19.12.22]
+1. Overview : [19.12.22]
 
-Numeric features : [19.12.24]
+2. Numeric features : [19.12.24]
 
-Categorical and ordinal features : [19.12.27]
+3. Categorical and ordinal features : [19.12.27]
 
-Datetime and coordinates : [19.12.29]
+4. Datetime and coordinates : [19.12.29]
 
-Handling missing values : [20.01.02]
+5. Handling missing values : [20.01.02]
 
 ## week2
 
