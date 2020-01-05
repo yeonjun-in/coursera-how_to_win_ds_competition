@@ -1,4 +1,4 @@
-# coursera-how_to_win_ds_competition
+# [coursera-how_to_win_ds_competition](https://www.coursera.org/learn/competitive-data-science/home/welcome)
 
 ## week1
 
