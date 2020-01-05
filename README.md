@@ -26,7 +26,8 @@
 
 2. Building intuition about the data [20.01.04]
 
-3. 
+3. Exploring anonymized data [20.01.05]
+
 
 
 
