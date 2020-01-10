@@ -28,6 +28,8 @@
 
 3. Exploring anonymized data [20.01.05]
 
+4. Visualizations [20.01.08]
 
+5. Dataset cleaning and other things to check [20.01.10]
 
 
