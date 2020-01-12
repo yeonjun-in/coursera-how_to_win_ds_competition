@@ -32,4 +32,8 @@
 
 5. Dataset cleaning and other things to check [20.01.10]
 
+#### EDA examples
 
+1. Springleaf competition EDA I [20.01.12]
+
+2. Springleaf competition EDA II [20.01.12]
