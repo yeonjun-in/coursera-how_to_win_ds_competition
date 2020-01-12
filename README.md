@@ -37,3 +37,9 @@
 1. Springleaf competition EDA I [20.01.12]
 
 2. Springleaf competition EDA II [20.01.12]
+
+
+### Validation
+
+1. Validation and Overfitting [20.01.13]
+
