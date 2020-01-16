@@ -45,4 +45,4 @@
 
 2. Validation strategies [20.01.15]
 
-3. Data splitting strategies [20.01.15]
+3. Data splitting strategies [20.01.16]
