@@ -66,3 +66,9 @@
 4. Classfication metrics review
 
 5. general approaches for metrics optimization
+
+6. Regression metrics optimization
+
+7. Classification metrics optimization I
+
+8. Classification metrics optimization II
